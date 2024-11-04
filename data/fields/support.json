@@ -1,5 +1,22 @@
 {
     "key": "support",
     "type": "combo",
-    "label": "Support"
+    "label": "Support",
+    "strings": {
+        "options": {
+            "billboard": "Billboard",
+            "ceiling": "Ceiling",
+            "ground": "Ground",
+            "high_mast": "High Mast",
+            "pedestal": "Pedestal",
+            "pole": "Pole",
+            "post": "Post",
+            "power_pole": "Power Pole",
+            "roof": "Roof",
+            "street_lamp": "Street Lamp",
+            "tree": "Tree",
+            "wall": "Wall",
+            "wire": "Wire"
+        }
+    }
 }

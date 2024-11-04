@@ -2,7 +2,8 @@
     "icon": "temaki-plaque",
     "fields": [
         "{historic/memorial}",
-        "direction"
+        "direction",
+        "support"
     ],
     "geometry": [
         "point",
